@@ -9,6 +9,7 @@ class Solution(object):
 solution = Solution()
 
 print(solution.twoSum([2, 7, 11, 15], 9)) 
+print(solution.twoSum([2,4,5,8,9,30], 39))
 
         
     
