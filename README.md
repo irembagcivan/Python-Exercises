@@ -7,6 +7,8 @@
 5. Climbing Stairs
 6. Password Generator
 7. Single Number
+8. Score of a String
+9. Display The First Three Rows
 
 
 
