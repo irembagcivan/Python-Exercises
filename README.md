@@ -6,6 +6,7 @@
 4. Valid Parentheses
 5. Climbing Stairs
 6. Password Generator
+7. Single Number
 
 
 
